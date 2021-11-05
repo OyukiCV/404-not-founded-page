@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100px;
+}
+
+header h3 {
+    font-family: 'Inconsolata', monospace;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-left: 2.4rem;
+    color: #333333;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
+figure {
+    text-align: center;
+}
+
+figure img {
+    width: 80%;
+}
+
+.main-info {
+    margin: 0 auto;
+    padding-left:2rem;
+    padding-right: 2rem;
+}
+
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 4.5rem;
+    color: #333333;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+    font-size: 1.8rem;
+    color: #333333;
+    margin-bottom: 7rem;
+}
+
+button{
+    background-color: #333333;
+    color: white;
+    width: 216px;
+    height: 68px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    border: none;
+}
+.footer{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+    color: #BDBDBD;
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px){
+    header{
+        height: 200px;
+    }
+    header h3 {
+        margin-top: 4rem;
+        margin-left: 8rem;
+    }
+    main{
+        display: flex;
+        flex-direction: row;
+    }
+
+    h1 {
+        font-size: 6rem;
+   
+    }
+    .main-box-text{
+        max-width: 375px;
+    }
+    p{
+        font-size: 2.2rem;
+    }
+}
