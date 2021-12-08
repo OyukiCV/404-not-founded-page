@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/OyukiCV/404-not-founded-page/issues/1)
+![screenshot](https://user-images.githubusercontent.com/51387019/145140121-a511554a-5d2e-4106-9f2c-7461d4552870.png)
+(https://user-images.githubusercontent.com/51387019/145140140-4c0cc69f-f003-4e83-8489-0f44cb671cff.png)
 
 
 El reto fue hacer el maquetado responsive del diseño de una página 404, el reto para m fue comenzar primero con el maquetado mobile y posteriormente hacerlo para version desktop
