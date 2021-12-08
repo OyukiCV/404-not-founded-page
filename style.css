@@ -68,6 +68,9 @@ button{
     text-transform: uppercase;
     border: none;
 }
+button:hover{
+    background-color: #474747;
+}
 .footer{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.4rem;

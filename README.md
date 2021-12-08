@@ -37,7 +37,7 @@
 ## Overview
 
 ![screenshot](https://user-images.githubusercontent.com/51387019/145140121-a511554a-5d2e-4106-9f2c-7461d4552870.png)
-(https://user-images.githubusercontent.com/51387019/145140140-4c0cc69f-f003-4e83-8489-0f44cb671cff.png)
+(https://user-images.githubusercontent.com/51387019/145140764-7dc1690d-ee43-436e-bd19-044f10b5b121.png)
 
 
 El reto fue hacer el maquetado responsive del diseño de una página 404, el reto para m fue comenzar primero con el maquetado mobile y posteriormente hacerlo para version desktop
@@ -61,10 +61,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+
 
 ## Contact
 
-- Website [your-website.com]({https://oyukicv.github.io/})
-- GitHub [@your-username](https://{https://github.com/OyukiCV})
+- Website [https://oyukicv.github.io/]({https://oyukicv.github.io/})
+- GitHub [@OyukiCV](https://{https://github.com/OyukiCV})
