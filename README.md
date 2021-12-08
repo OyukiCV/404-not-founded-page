@@ -65,5 +65,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [https://oyukicv.github.io/]({https://oyukicv.github.io/})
-- GitHub [@OyukiCV](https://{https://github.com/OyukiCV})
+- Website [https://oyukicv.github.io/](https://oyukicv.github.io/)
+- GitHub [@OyukiCV](https://github.com/OyukiCV)
